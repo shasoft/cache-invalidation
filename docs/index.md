@@ -223,4 +223,6 @@ class CacheItemFiles extends CacheInvalidationLifetime
 **Минусы**:
 - Отсутствие подсказки в IDE по параметрам
 
-Ссылка на github [shasoft/cache-invalidation](https://github.com/shasoft/cache-invalidation)
+Ссылка на github [shasoft/cache-invalidation][github-link]
+
+[github-link]: https://github.com/shasoft/cache-invalidation

@@ -18,8 +18,8 @@
     "require-dev": {
         "phpunit/phpunit": "^10",
         "robiningelbrecht/phpunit-pretty-print": "^1.2",
-        "shasoft/psr-cache": "*",
-        "shasoft/dump": "*"
+        "shasoft/dump": "*",
+        "shasoft/psr-cache": "*"
     },
     "autoload-dev": {
         "psr-4": {
@@ -30,7 +30,7 @@
     "authors": [
         {
             "name": "Shabanov Valera",
-            "email": "{name}@shasoft.com"
+            "email": "shasoft_cache-invalidation@shasoft.com"
         }
     ]
 }
